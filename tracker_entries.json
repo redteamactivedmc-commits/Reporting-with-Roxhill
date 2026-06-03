@@ -1,0 +1,67 @@
+[
+  {
+    "Date (DD/MM/YYYY)": "25/03/2026",
+    "Publication":        "Security MEA",
+    "Headline":           "KnowBe4 Launches Phish Alert Button for Microsoft Teams",
+    "Media Type":         "IT/ Tech",
+    "Language":           "English",
+    "Spokesperson":       "",
+    "Source":             "https://www.securitymea.com/2026/03/25/knowbe4-launches-phish-alert-button-for-microsoft-teams/",
+    "Reach":              0,
+    "Tier":               "Tier 1",
+    "Print/Online":       "Online",
+    "For Pivot":          ""
+  },
+  {
+    "Date (DD/MM/YYYY)": "24/03/2026",
+    "Publication":        "TechPulse MEA",
+    "Headline":           "KnowBe4 Brings One-Click Phishing Reporting to Microsoft Teams",
+    "Media Type":         "IT/ Tech",
+    "Language":           "English",
+    "Spokesperson":       "",
+    "Source":             "https://www.techpulsemea.com/knowbe4-brings-one-click-phishing-reporting-to-microsoft-teams/",
+    "Reach":              0,
+    "Tier":               "Tier 2",
+    "Print/Online":       "Online",
+    "For Pivot":          ""
+  },
+  {
+    "Date (DD/MM/YYYY)": "24/03/2026",
+    "Publication":        "MEA Tech Watch",
+    "Headline":           "KnowBe4 Expands Critical Security Defenses with Phish Alert Button for Microsoft Teams",
+    "Media Type":         "IT/ Tech",
+    "Language":           "English",
+    "Spokesperson":       "",
+    "Source":             "https://meatechwatch.com/knowbe4-expands-critical-security-defenses-with-phish-alert-button-for-microsoft-teams/",
+    "Reach":              0,
+    "Tier":               "Tier 2",
+    "Print/Online":       "Online",
+    "For Pivot":          ""
+  },
+  {
+    "Date (DD/MM/YYYY)": "24/03/2026",
+    "Publication":        "Tech Africa News",
+    "Headline":           "KnowBe4 Launches Phish Alert Button for Microsoft Teams to Tackle Rising Chat-Based Cyber Threats",
+    "Media Type":         "IT/ Tech",
+    "Language":           "English",
+    "Spokesperson":       "",
+    "Source":             "https://techafricanews.com/2026/03/24/knowbe4-launches-phish-alert-button-for-microsoft-teams-to-tackle-rising-chat-based-cyber-threats/",
+    "Reach":              0,
+    "Tier":               "Tier 2",
+    "Print/Online":       "Online",
+    "For Pivot":          ""
+  },
+  {
+    "Date (DD/MM/YYYY)": "24/03/2026",
+    "Publication":        "Gulf Tech News",
+    "Headline":           "KnowBe4 Expands Critical Security Defenses with Phish Alert Button for Microsoft Teams",
+    "Media Type":         "IT/ Tech",
+    "Language":           "English",
+    "Spokesperson":       "",
+    "Source":             "https://gulftech-news.com/knowbe4-expands-critical-security-defenses-with-phish-alert-button-for-microsoft-teams/",
+    "Reach":              0,
+    "Tier":               "Tier 2",
+    "Print/Online":       "Online",
+    "For Pivot":          ""
+  }
+]
