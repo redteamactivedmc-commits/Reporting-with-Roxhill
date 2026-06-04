@@ -140,7 +140,6 @@ python -m media_monitor tracker update \
 | Alias key | Maps to |
 |-----------|---------|
 | uipath | UiPath |
-| scc | SCC Middle East |
 | illumio | Illumio |
 | denodo | Denodo |
 | phosphorus | Phosphorus Cybersecurity |
@@ -148,10 +147,12 @@ python -m media_monitor tracker update \
 | netscout | NETSCOUT |
 | dynatrace | Dynatrace |
 | qlik | Qlik |
-| commscope | CommScope |
 | heidrick | Heidrick & Struggles |
 | levelinfinite | Level Infinite |
-
+| emerson | Emerson |
+| jpmorgan | JP Morgan Private Bank |
+| ciena | Ciena  |
+| cequence | Cequence | 
 To add a new client, edit the `CLIENT_ALIAS_MAP` dict in `roxhill_parser.py`.
 
 ---
