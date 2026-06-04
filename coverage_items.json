@@ -1,0 +1,29 @@
+[
+  {
+    "publication":    "CXO Insight ME",
+    "headline":       "The invisible attack surface: Securing the IoT revolution in Vision 2030",
+    "date":           "03-03-2025",
+    "url":            "https://www.cxoinsightme.com/opinions/the-invisible-attack-surface-securing-the-iot-revolution-in-vision-2030/",
+    "language":       "English",
+    "print_online":   "Online",
+    "screenshot_path": ""
+  },
+  {
+    "publication":    "Security Advisor Middle East",
+    "headline":       "IoT Security Challenges in Saudi Arabia",
+    "date":           "03-03-2025",
+    "url":            "https://www.securitymiddleeast.com/",
+    "language":       "English",
+    "print_online":   "Online",
+    "screenshot_path": ""
+  },
+  {
+    "publication":    "Al Riyadh",
+    "headline":       "رؤية 2030 والأمن السيبراني",
+    "date":           "03-03-2025",
+    "url":            "https://www.alriyadh.com/",
+    "language":       "Arabic",
+    "print_online":   "Print",
+    "screenshot_path": ""
+  }
+]
