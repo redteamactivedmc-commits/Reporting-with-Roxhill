@@ -48,7 +48,6 @@ from bs4 import BeautifulSoup
 # ─────────────────────────────────────────────────────────────────────────────
 CLIENT_ALIAS_MAP: dict[str, str] = {
     "uipath":        "UiPath",
-    "scc":           "SCC Middle East",
     "illumio":       "Illumio",
     "denodo":        "Denodo",
     "phosphorus":    "Phosphorus Cybersecurity",
