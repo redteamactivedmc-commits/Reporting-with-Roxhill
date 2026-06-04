@@ -58,6 +58,10 @@ CLIENT_ALIAS_MAP: dict[str, str] = {
     "heidrick":      "Heidrick & Struggles",
     "levelinfinite": "Level Infinite",
     "level":         "Level Infinite",
+    "emerson":       "Emerson",
+    "jpmorgan":      "JP Morgan Private Bank",
+    "ciena":         "Ciena",
+    "cequence":      "Cequence",
 }
 
 ROXHILL_SENDER = "monitoring-emails@roxhillmedia.com"
