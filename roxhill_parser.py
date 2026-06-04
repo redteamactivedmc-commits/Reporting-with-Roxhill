@@ -55,7 +55,6 @@ CLIENT_ALIAS_MAP: dict[str, str] = {
     "netscout":      "NETSCOUT",
     "dynatrace":     "Dynatrace",
     "qlik":          "Qlik",
-    "commscope":     "CommScope",
     "heidrick":      "Heidrick & Struggles",
     "levelinfinite": "Level Infinite",
     "level":         "Level Infinite",
